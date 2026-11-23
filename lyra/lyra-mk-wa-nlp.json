@@ -1,0 +1,102 @@
+{
+  "commands": {
+    "bot": [
+      "bot"
+    ],
+    "creategroup": [
+      [
+        "create new group with name",
+        "create group",
+        "please, create group",
+        "make me a group"
+      ],
+      [
+        "buatkan grup baru dengan nama",
+        "buat grup",
+        "bikin grup baru",
+        "bikinin grup baru"
+      ]
+    ],
+    "setsubject": [
+      [
+        "change group name",
+        "set new group name"
+      ],
+      [
+        "ganti nama grup",
+        "atur nama grup"
+      ]
+    ],
+    "setdescription": [
+      [
+        "change group description",
+        "set new group description"
+      ],
+      [
+        "ganti deskripsi grup",
+        "atur deskripsi grup"
+      ]
+    ],
+    "promote": [
+      [
+        "promote this user",
+        "promote user"
+      ],
+      [
+        "promosikan pengguna ini",
+        "promosikan pengguna"
+      ]
+    ],
+    "demote": [
+      [
+        "demote this user"
+      ],
+      [
+        "turunkan pangkar pengguna ini"
+      ]
+    ],
+    "help": [
+      [
+        "help me",
+        "please help me",
+        "can you help me"
+      ],
+      [
+        "bantu aku",
+        "tolong bantu aku",
+        "bisakan kamu membantuku"
+      ]
+    ],
+    "menu": [
+      [
+        "open menu",
+        "open list",
+        "open your menu",
+        "see your menu"
+      ],
+      [
+        "buka menu",
+        "buka daftar",
+        "buka menumu",
+        "lihat menumu"
+      ]
+    ],
+    "sticker": [
+      [
+        "create sticker",
+        "change into sticker",
+        "convert to sticker"
+      ],
+      [
+        "bikin stiker",
+        "ubah jadi stiker",
+        "konservi ke stiker"
+      ]
+    ],
+    "test": [
+      "testing",
+
+      ["test ing"]
+    ]
+  }
+}
