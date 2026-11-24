@@ -8,30 +8,38 @@
         "create new group with name",
         "create group",
         "please, create group",
-        "make me a group"
+        "make me a group",
+        "make new group"
       ],
       [
         "buatkan grup baru dengan nama",
         "buat grup",
         "bikin grup baru",
-        "bikinin grup baru"
+        "bikinin grup baru",
+        "tolong buatkan grup"
       ]
     ],
     "setsubject": [
       [
         "change group name",
-        "set new group name"
+        "set new group name",
+        "set group name to",
+        "rename this group name into",
+        "rename group",
       ],
       [
-        "ganti nama grup",
-        "atur nama grup"
+        "ganti nama grup menjadi",
+        "atur nama grup",
+        "namain ulang grup"
       ]
     ],
     "setdescription": [
       [
         "change group description",
-        "set new group description"
+        "set new group description",
+        "write group description"
       ],
+      
       [
         "ganti deskripsi grup",
         "atur deskripsi grup"
@@ -84,19 +92,34 @@
     "sticker": [
       [
         "create sticker",
+        "make sticker",
         "change into sticker",
         "convert to sticker"
       ],
       [
         "bikin stiker",
         "ubah jadi stiker",
-        "konservi ke stiker"
+        "buat jadi stiker",
+        "konversi ke stiker"
       ]
     ],
     "test": [
       "testing",
-
       ["test ing"]
+    ],
+    "chatmode": [
+      [
+        "chat mode",
+        "go to chat mode",
+        "switch to chat",
+        "i wanna talk",
+        "we just chatting"
+      ],
+      [
+        "mode ngobrol",
+        "ke mode ngobrol",
+        "ganti ke mode ngobrol"
+      ]
     ]
   }
 }
