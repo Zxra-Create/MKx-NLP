@@ -25,7 +25,7 @@
         "set new group name",
         "set group name to",
         "rename this group name into",
-        "rename group",
+        "rename group"
       ],
       [
         "ganti nama grup menjadi",
@@ -67,12 +67,14 @@
       [
         "help me",
         "please help me",
-        "can you help me"
+        "can you help me",
+        "can you explain this command"
       ],
       [
         "bantu aku",
         "tolong bantu aku",
-        "bisakan kamu membantuku"
+        "bisakan kamu membantuku",
+        "bisa jelaskan perintah ini"
       ]
     ],
     "menu": [
